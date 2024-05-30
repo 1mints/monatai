@@ -1,4 +1,4 @@
-#monatai
+# monatai
 
 Website is built on NextJS, use these commands to install required dependencies:
 ```
