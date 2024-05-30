@@ -1,7 +1,6 @@
-# monatai
+#MonatAI, personal assistance done right.
 
-Website is built on NextJS
-Use these commands to install required dependencies:
+Website is built on NextJS, use these commands to install required dependencies:
 ```
 npm install next@latest
 
